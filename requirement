@@ -1,0 +1,6 @@
+matlibplot
+opencv-python==4.4.0.44
+scipy==1.5.2
+tensorboard==1.13.1
+tensorflow-estimator==1.13.0
+tensorflow-gpu==1.13.1
