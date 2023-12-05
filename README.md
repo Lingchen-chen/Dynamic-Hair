@@ -36,11 +36,25 @@ It is more reasonable and achieves better results than **HairTempNet**.
     ```
 - You can run the scripts in the Script folder to train/test your models.
 
+## Related works
+- The latest work [MonoHair](https://keyuwu-cs.github.io/MonoHair/)
+
+- For single-view modeling [NeuralHDHair](https://github.com/KeyuWu-CS/NeuralHDHair)
+
+
 ## Citation
 
-If you find this useful for your research, please cite the following paper.
+If you find this useful for your research, please cite the following papers.
 
 ```
+@inproceedings{wu2022neuralhdhair,
+title={NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations},
+author={Wu, Keyu and Ye, Yifan and Yang, Lingchen and Fu, Hongbo and Zhou, Kun and Zheng, Youyi},
+booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+pages={1526--1535},
+year={2022}
+}
+
 @article{yang2019dynamic,
   title={Dynamic hair modeling from monocular videos using deep neural networks},
   author={Yang, Lingchen and Shi, Zefeng and Zheng, Youyi and Zhou, Kun},
